@@ -14,8 +14,8 @@ I focus on problem solving and building convenient, interactive web applications
 ## 💬 Languages 
 
 - 🇺🇦 Ukrainian — native  
-- 🇨🇿 Czech — fluent  
-- 🇬🇧 English — upper-intermediate
+- 🇨🇿 Czech — professional working proficiency
+- 🇬🇧 English — professional working proficiency
 
 ---
 
