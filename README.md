@@ -1,6 +1,7 @@
 # Hi there 👋 My name is Kyrylo
 
 I am a **Frontend developer** from Zaporizhzhia, Ukraine 🇺🇦.
+
 I focus on problem solving and building convenient, interactive web applications — always caring about clean architecture, type safety, and developer experience.
 
 ---
