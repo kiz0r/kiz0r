@@ -1,13 +1,15 @@
 # Hi there 👋 My name is Kyrylo
 
-I am a **Frontend developer** from Zaporizhzhia, Ukraine 🇺🇦.
+I am a **Software Engineer** from Zaporizhzhia 🇺🇦, based in Prague 🇨🇿.
+I build modern web applications with a focus on frontend architecture, realtime systems, and developer experience.
 
-I focus on problem solving and building convenient, interactive web applications — always caring about clean architecture, type safety, and developer experience.
+Currently working with React, TypeScript, Effect, Python, and FastAPI.
 
 ---
 
 ## 🎓 Education
-- **Bachelor of Software Engineering**, CTU in Prague _(2022 – 2026)_
+- **MSc, Application of Informatics in Natural Sciences**, FNSPE CTU in Prague _(09.2026 - 07.2028)_
+- **BSc, Applied Informatics**, FNSPE CTU in Prague _(09.2022 – 09.2026)_
 
 ---
 
@@ -23,8 +25,4 @@ I focus on problem solving and building convenient, interactive web applications
 
 - Email: [kkhomenko.dev@gmail.com](mailto:kkhomenko.dev@gmail.com)
 - LinkedIn: [linkedin.com/in/khomenkokyrylo](https://www.linkedin.com/in/khomenkokyrylo/)
-- Github: [github.com/kiz0r](https://www.github.com/kiz0r)
-
----
-
-> “Clean code is a craft, not a luxury.”
+- GitHub: [github.com/kiz0r](https://www.github.com/kiz0r)
